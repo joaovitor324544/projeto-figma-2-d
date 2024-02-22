@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+:root{
+--fundo-cabecalho: #E6C2C2;
+--fundo-lista: #224E5F;
+--fundo-lista: #000000;
+}
+.cabecalho{
+    background-color:var(--fundo-cabecalho);
+}
+=======
 :root{
 
 }
+
+>>>>>>> 97146b947e9c8d030596c115d6defeec3e6eb507
