@@ -6,3 +6,6 @@
 .cabecalho{
     background-color:var(--fundo-cabecalho);
 }
+.imagem-cabecalho{
+    width: 100px;;
+}
