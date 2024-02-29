@@ -9,8 +9,14 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-    padding: 24px;
+    padding: 24px 0;
 }
 .imagem-cabecalho{
     width: 100px;
+}
+.item-lista-cabecalho{
+
+    display: inline-block;
+    margin: 0 16px;
+
 }
