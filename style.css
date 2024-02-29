@@ -1,20 +1,23 @@
-:root{
---fundo-cabecalho: #c48b8b;
---fundo-lista: #224E5F;
---fundo-lista: #000000;
+:root {
+    --fundo-cabecalho: #c48b8b;
+    --fundo-lista: #224E5F;
+    --fundo-lista: #000000;
 }
-.cabecalho{
-    background-color:var(--fundo-cabecalho);
+
+.cabecalho {
+    background-color: var(--fundo-cabecalho);
     color: var(--fundo-lista);
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
-.imagem-cabecalho{
+
+.imagem-cabecalho {
     width: 99px;
 }
-.item-lista-cabecalho{
+
+.item-lista-cabecalho {
 
     display: inline-block;
     margin: 0 16px;
