@@ -7,7 +7,9 @@
     background-color:var(--fundo-cabecalho);
     color: var(--fundo-lista);
     display: flex;
-    justify-content: first baseline;
+    justify-content:space-around;
+    align-items: center;
+    padding: 24px;
 }
 .imagem-cabecalho{
     width: 100px;
