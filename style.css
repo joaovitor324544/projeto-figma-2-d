@@ -5,6 +5,8 @@
 }
 .cabecalho{
     background-color:var(--fundo-cabecalho);
+    color: var(--fundo-lista);
+    display: flex;
 }
 .imagem-cabecalho{
     width: 100px;;
