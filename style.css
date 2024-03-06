@@ -1,3 +1,7 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
 :root {
     --fundo-cabecalho: #c48b8b;
     --fundo-lista: #224E5F;
