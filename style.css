@@ -28,10 +28,12 @@
      margin: 0 16px;
      font-size: larger;
  }
-.escola-imagem{
-   width: 150px;
+
+ .escola-imagem {
+     width: 200px;
  }
- .escola{
-    background-image: linear-gradient(#E8C3C3, #214E5F);
-    display: flex;
+
+ .escola {
+     background-image: linear-gradient(#E8C3C3, #214E5F);
+     display: flex;
  }
