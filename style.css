@@ -37,11 +37,16 @@
      background-image: linear-gradient(#E8C3C3, #214E5F);
      display: flex;
      align-items: center;
+     padding-bottom: 16%;
+     padding-top: 6%;
+     padding-left: 10%;
+ }
+
+ .escola-div-conteudo {
+     width: 75%;
+ }
+
+ .ecola-titulo {
      padding: 24px 0;
- }
- .escola-div-conteudo{
-    width: 75%;
- }
- .ecola-titulo{
-    padding: 24px 0;
+    
  }
