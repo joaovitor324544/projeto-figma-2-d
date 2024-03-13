@@ -19,13 +19,13 @@
  }
 
  .imagem-cabecalho {
-     width: 99px;
+     width: 100px;
  }
 
  .item-lista-cabecalho {
 
      display: inline-block;
-     margin: 0 16px;
+     margin: 0 10px;
      font-size: larger;
  }
 
