@@ -47,7 +47,7 @@
  }
 
  .escola-titulo {
-     
+
      padding: 24px 0;
  }
 
@@ -62,15 +62,17 @@
 
  .estudante-div {
      background-color: #224E5F;
-     text-align:initial;
-     padding: 16px 0; 
-     
- } 
- .estudante-titulo{
-    background-color: #224E5F;
-    padding: 24px 0;
- } 
- .estudante-todos{ 
-    display: grid; 
-    grid-template-columns: 20% 20% 20% 20% 20% ;
+     text-align: initial;
+     padding: 16px 0;
+
+ }
+
+ .estudante-titulo {
+     background-color: #224E5F;
+     padding: 24px 0;
+ }
+
+ .estudante {
+     display: grid;
+     grid-template-columns: 20% 20% 20% 20% 20%;
  }
