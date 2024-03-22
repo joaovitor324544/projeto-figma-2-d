@@ -62,8 +62,7 @@
 
  .estudante-div {
      background-color: #224E5F;
-     text-align: initial;
-     padding: 16px 0;
+     padding: 10px 0;
 
  }
 
@@ -73,6 +72,7 @@
  }
 
  .estudante {
+    
      display: grid;
      grid-template-columns: 20% 20% 20% 20% 20%;
  }
