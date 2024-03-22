@@ -47,7 +47,7 @@
  }
 
  .escola-titulo {
-     background-color: #224E5F;
+     
      padding: 24px 0;
  }
 
@@ -64,4 +64,8 @@
      background-color: #224E5F;
      text-align: initial;
      align-items: center;
+ } 
+ .estudante-titulo{
+    background-color: #224E5F;
+    padding: 24px 0;
  }
