@@ -62,7 +62,7 @@
 
  .estudante-div {
      background-color: #224E5F;
-     text-align: center;
+     text-align:initial;
      padding: 16px 0; 
      
  } 
