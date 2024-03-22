@@ -68,11 +68,11 @@
 
  .estudante-titulo {
      background-color: #224E5F;
-     padding: 24px 0;
+    text-align: center;
  }
 
  .estudante {
     
      display: grid;
-     grid-template-columns: 20% 20% 20% 20% 20%;
+     grid-template-columns: 25% 25% 25% 25% ;
  }
