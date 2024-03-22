@@ -63,7 +63,8 @@
  .estudante-div {
      background-color: #224E5F;
      text-align: initial;
-     padding: 16px 0;
+     padding: 16px 0; 
+     justify-content: space-around;
  } 
  .estudante-titulo{
     background-color: #224E5F;
