@@ -57,7 +57,9 @@
     width: 24px;
 
 }
-.estudante-div{ 
+.estudante-div{
+    background-color: #224E5F; 
     text-align: initial;
-    align-items: center;
+    align-items: center; 
+
 }
